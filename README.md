@@ -1,2 +1,2 @@
 # MarketSistemi
-Market sistemi tasarladıgım bir proje detayları readme kısmında bulabilirsiniz
+Bu proje, Nesne Yönelimli Programlama (OOP) dersi kapsamında geliştirilmiş bir masaüstü uygulamasıdır. Sistem; Admin ve Müşteri olmak üzere iki ana modülden oluşur. Admin paneli üzerinden dinamik CRUD (Ekle/Sil/Güncelle) işlemleri ve stok takibi yapılırken; Müşteri modülünde sepet mantığı, anlık stok düşümü ve farklı kampanya algoritmaları simüle edilmiştir. Veri bütünlüğü MySQL veritabanı ile sağlanmıştır.
